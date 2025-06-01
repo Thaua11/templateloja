@@ -6,7 +6,7 @@ Template base para lojas online com:
 - Integração com WhatsApp
 - Painel administrativo
 
-## 🚀 Como Usar
+## Como Usar
 
 1. Clone o repositório:
    ```bash
@@ -22,7 +22,7 @@ Template base para lojas online com:
    - Abra o `index.html` no navegador
    - Acesse o painel admin em `admin.html`
 
-## 🛠️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 /loja-online
@@ -36,11 +36,11 @@ Template base para lojas online com:
 └── img/                # Imagens dos produtos
 ```
 
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE] para detalhes.
 
-## 📧 Contato
+##Contato
 
 Se tiver dúvidas ou sugestões:
 - Email: tsouzamilan@gmail.com
